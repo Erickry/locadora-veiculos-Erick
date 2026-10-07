@@ -1,0 +1,21 @@
+PASSO A PASSO SIMPLES - ERICK - ETAPA 3
+
+1. Baixe e extraia o ZIP em uma pasta nova.
+2. Abra o arquivo LocadoraVeiculosErick.sln no Visual Studio.
+3. Espere o Visual Studio terminar de carregar os pacotes.
+4. Perto do botão verde, selecione o perfil "SQL Server local".
+5. Aperte F5.
+6. Espere o Swagger abrir no navegador.
+7. Confira se aparecem Fabricantes, Clientes, Veiculos, Reservas, Alugueis e Filtros.
+8. O trabalho já foi testado: os 32 endpoints funcionaram.
+9. Confira o PDF Erick_TrabalhoPratico1_Etapa3.pdf, que contém todos os prints.
+10. Envie os arquivos para o repositório do Erick:
+    https://github.com/Erickry/LocadoraVeiculosErick
+11. No GitHub, use Code > Download ZIP para baixar a cópia final.
+12. Envie esse ZIP no Canvas junto com o PDF, se a atividade pedir os dois separados.
+
+IMPORTANTE:
+- Não apague arquivos do projeto.
+- Não envie as pastas bin, obj ou .vs.
+- Se o navegador não abrir sozinho, acesse:
+  http://localhost:5187/swagger
